@@ -1,1 +1,1 @@
-SECRET_KEY = "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"
+SECRET_KEY = "your secret key"
